@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
+    "start": "next start -p $PORT",
     "lint": "next lint"
   },
   "dependencies": {
@@ -19,6 +19,7 @@
     "eslint-plugin-react-hooks": "^5.0.0-next-c28f313e6-20220908",
     "framer-motion": "^7.3.2",
     "inner-vh": "^2.1.1",
+    "lodash": "^4.17.21",
     "lowdb": "^3.0.0",
     "luxon": "^3.0.3",
     "nanoid": "^4.0.0",
