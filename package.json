@@ -9,9 +9,29 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/icons": "^2.0.9",
+    "@chakra-ui/react": "^2.3.2",
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "axios": "^0.27.2",
+    "crypto-js": "^4.1.1",
+    "detect-it": "^4.0.1",
+    "eslint-plugin-react-hooks": "^5.0.0-next-c28f313e6-20220908",
+    "framer-motion": "^7.3.2",
+    "inner-vh": "^2.1.1",
+    "lowdb": "^3.0.0",
+    "luxon": "^3.0.3",
+    "nanoid": "^4.0.0",
     "next": "12.3.0",
+    "next-auth": "^4.10.3",
+    "next-connect": "^0.13.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-dropzone": "^14.2.2",
+    "react-hook-form": "^7.35.0",
+    "react-icons": "^4.4.0",
+    "react-spinners": "^0.13.4",
+    "react-viewport-height": "^1.2.1"
   },
   "devDependencies": {
     "eslint": "8.23.0",
